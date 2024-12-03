@@ -1,0 +1,8 @@
+https://pypi.org/project/pillow/
+https://pypi.org/project/transformers/
+https://pytorch.org/get-started/locally/
+
+https://www.gradio.app/guides/quickstart
+
+https://huggingface.co/docs/transformers/model_doc/blip#transformers.BlipConfig
+https://huggingface.co/Salesforce/blip-image-captioning-base
